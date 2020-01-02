@@ -1,2 +1,3 @@
-# WEB_Scraping-
-Completed Web Scraping Training using Python. Frameworks used- Scrapy, Selenium.
+# WEB_Scraping using Python(SCRAPY and SELENIUM)
+* **Quotes Scraper**
+* **Login Scraper**
